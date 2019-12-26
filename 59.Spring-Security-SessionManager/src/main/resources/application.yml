@@ -1,6 +1,6 @@
-security:
-  basic:
-    enabled: true
+#security:
+#  basic:
+#    enabled: true
 
 server:
   session:
